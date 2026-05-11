@@ -71,7 +71,7 @@ He pasado gran parte de mi vida construyendo proyectos, aprendiendo de cada expe
 Si te apasiona la tecnología, la innovación o simplemente quieres hablar sobre ideas interesantes, aquí estoy.
 
 - Email: **mf371960@gmail.com**
-- GitHub: **MarkDev1117**
+- GitHub: **MarkDev117**
 
 ---
 
